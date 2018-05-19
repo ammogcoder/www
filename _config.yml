@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: MonetaVerde Wiki
+email: info@monetaverde.io
 description: >
   Jekyll Template for Project Websites
   providing documentation and blog post pages.
 
-baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+# baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
+url: https://wiki.monetaverde.io # the base hostname & protocol for your site
+# git_address: https://github.com/aksakalli/jekyll-doc-theme
+# git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
-bootwatch: paper
+# bootwatch: paper
 
 # Build settings
 markdown: kramdown
