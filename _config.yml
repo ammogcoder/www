@@ -12,6 +12,17 @@ git_address: https://github.com/monetaverde
 # comment out this to use default Bootstrap
 # bootwatch: paper
 
+# Social Media
+twitter_username: monetaverde_mcn
+github_username: monetaverde
+linkedin_username: monetaverde
+telegram_username: monetaverdeofficial
+medium_username: monetaverde
+wiki_url: "https://wiki.monetaverde.io"
+slack_url: "https://monetaverde.slack.com"
+slack_url: "https://blog.monetaverde.io"
+coinmarketcap_url: "https://coinmarketcap.com/currencies/monetaverde"
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
