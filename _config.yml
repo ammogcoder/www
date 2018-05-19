@@ -5,7 +5,7 @@ description-title: Welcome to MonetaVerde Wiki
 
 # baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
 url: https://wiki.monetaverde.io # the base hostname & protocol for your site
-git_address: https://github.com/monetaverde
+# git_address: https://github.com/monetaverde
 # git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/
@@ -13,8 +13,8 @@ git_address: https://github.com/monetaverde
 # bootwatch: paper
 
 # Social Media
-twitter_username: monetaverde_mcn
-github_username: monetaverde
+twitter_url: https://twitter.com/monetaverde_mcn
+github_url: https://github.com/monetaverde
 linkedin_username: monetaverde
 telegram_username: monetaverdeofficial
 medium_username: monetaverde
