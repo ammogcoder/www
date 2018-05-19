@@ -1,5 +1,5 @@
 # Site settings
-# title: MonetaVerde Wiki
+title: MonetaVerde Wiki
 email: info@monetaverde.io
 description: >
   Welcome to MonetaVerde Project Wiki
@@ -11,7 +11,7 @@ url: https://wiki.monetaverde.io # the base hostname & protocol for your site
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
- bootwatch: paper
+# bootwatch: paper
 
 # Build settings
 markdown: kramdown
