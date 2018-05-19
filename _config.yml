@@ -1,8 +1,7 @@
 # Site settings
 title: MonetaVerde Wiki
 email: info@monetaverde.io
-description: >
-  Welcome to MonetaVerde Project Wiki
+description.title: Welcome to MonetaVerde Project Wiki
 
 # baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
 url: https://wiki.monetaverde.io # the base hostname & protocol for your site
