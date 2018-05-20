@@ -6,10 +6,10 @@ description-title: Welcome to MonetaVerde Wiki
 description-detail: We are building <b>Green Cryptocurrency</b> and publishing documentation and many more things about the project.
 definition-title: What is MonetaVerde?
 definition-detail: > 
-Moneta Verde (it) means "green coin": this coin uses already existing mining resources (MM) and 
+"Moneta Verde (it) means 'green coin' this coin uses already existing mining resources (MM) and 
 it's supply is regulated by mining community. Moneta Verde is the first cryptocoin with blockreward increasing together 
 with difficulty. Block reward formula is a fixed point implementation of log2(difficulty). This means that block reward 
-increases much slower than difficulty: for 1 coin to be added to block reward a difficulty must be increased twice.
+increases much slower than difficulty for 1 coin to be added to block reward a difficulty must be increased twice."
 
 # baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
 url: https://wiki.monetaverde.io # the base hostname & protocol for your site
