@@ -5,7 +5,7 @@ email: info@monetaverde.io
 description-title: Welcome to MonetaVerde Wiki
 description-detail: We are building <b>Green Cryptocurrency</b> and publishing documentation and many more things about the project.
 definition-title: What is MonetaVerde?
-definition-detail: "
+definition-detail:
 | KEY | VALUE |
 |-----|-------|
 | Name | MonetaVerde |
@@ -19,7 +19,6 @@ definition-detail: "
 | Total Supply | **NOT_SPECIFIED** |
 | Launch Date |Jun 17, 2014 |
 | Version     | 0.8.9 |
-"
 
 # baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
 url: https://wiki.monetaverde.io # the base hostname & protocol for your site
