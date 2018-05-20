@@ -25,6 +25,8 @@ wiki_url: https://wiki.monetaverde.io
 slack_url: https://monetaverde.slack.com
 blog_url: https://blog.monetaverde.io
 coinmarketcap_url: https://coinmarketcap.com/currencies/monetaverde
+reddit_url: https://www.reddit.com/r/MonetaVerde
+bitcointalk_url: https://bitcointalk.org/index.php?topic=657820.0
 
 # Build settings
 markdown: kramdown
