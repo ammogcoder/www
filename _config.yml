@@ -13,6 +13,7 @@ url: https://wiki.monetaverde.io # the base hostname & protocol for your site
 # bootwatch: paper
 
 # Social Media
+home_url: https://www.monetaverde.io
 twitter_url: https://twitter.com/monetaverde_mcn
 github_url: https://github.com/monetaverde
 linkedin_username: monetaverde
