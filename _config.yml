@@ -7,7 +7,7 @@ description-detail: We are building Green Cryptocurrency
 definition-title: What is MonetaVerde?
 definition-detail: "MonetaVerde means <b>Green Coin</b> which means that this coin uses already existing mining resources 
 (<b>Merged Mining</b>) and it's supply is regulated by mining community. MonetaVerde is the first cryptocoin with blockreward 
-increasing together with difficulty. Block reward formula is a fixed point implementation of </b>log2(difficulty)</b>. 
+increasing together with difficulty. Block reward formula is a fixed point implementation of <b>log2(difficulty)</b>. 
 This means that block reward increases much slower than difficulty which means for 1 coin to be added to block reward a difficulty 
 must be increased twice. The goal is decline in deflation. The less the deflation the more it is profitable to save up some MCN. 
 Deflation ruins the usage of cryptocurrency as a legal tender. Deflation is a very serious problem for all cryptocoins because 
