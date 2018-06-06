@@ -4,13 +4,13 @@ subtitle: MonetaVerde - Building Green Cryptocurrency
 email: info@monetaverde.io
 description-title: Welcome to MonetaVerde Project!
 description-detail: We are building Green Cryptocurrency
-definition-title: What is MonetaVerde?
+definition-title: What is MonetaVerde (MCN)?
 definition-detail: "MonetaVerde means <b>Green Coin</b> which means that this coin uses already existing mining resources 
 (<b>Merged Mining</b>) and it's supply is regulated by mining community. MonetaVerde is the first cryptocoin with blockreward 
 increasing together with difficulty. Block reward formula is a fixed point implementation of <b>log2(difficulty)</b>. 
 This means that block reward increases much slower than difficulty which means for 1 coin to be added to block reward a difficulty 
-must be increased twice. The goal is decline in deflation. The less the deflation the more it is profitable to save up some MCN. 
-Deflation ruins the usage of cryptocurrency as a legal tender. Deflation is a very serious problem for all cryptocoins because 
+must be increased twice. The goal is decline in <b>deflation</b>. The less the deflation the more it is profitable to save up some MCN.
+Deflation ruins the usage of <b>cryptocurrency</b> as a legal tender. Deflation is a very serious problem for all cryptocoins because
 it prevents them from being used as payment mean. MCN will has a slower deflation rate than other coins."
 
 # baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
@@ -23,7 +23,7 @@ url: https://www.monetaverde.io # the base hostname & protocol for your site
 # bootwatch: paper
 
 # Social Media
-login_url: https://login.monetaverde.io
+login_url: #
 twitter_url: https://twitter.com/monetaverde_mcn
 github_url: https://github.com/monetaverde
 linkedin_url: https://www.linkedin.com/company/monetaverde
@@ -34,6 +34,36 @@ blog_url: https://blog.monetaverde.io
 coinmarketcap_url: https://coinmarketcap.com/currencies/monetaverde
 reddit_url: https://www.reddit.com/r/MonetaVerde
 bitcointalk_url: https://bitcointalk.org/index.php?topic=657820.0
+
+# Features
+feature-icon-01: fa fa-github fa-3x
+feature-title-01: Open Source
+feature-definition-01: MCN is a decentralized Open Source Cryptocurrency project and released under the MIT license.
+feature-icon-02: fa fa-connectdevelop fa-3x
+feature-title-02: Anonymous
+feature-definition-02: Untraceable truly anonymous transactions and encrypted information transfers in decentralized p2p network.
+feature-icon-03: fa fa-code-fork fa-3x
+feature-title-03: Merged Mining
+feature-definition-03: Merged mining with Bytecoin (BCN), QuazarCoin (QCN), Monero (XMR) and other CN based coins.
+feature-icon-04: fa fa-shield fa-3x
+feature-title-04: Resistant
+feature-definition-04: MonetaVerde blockchain is resistant to any kind of analysis and all transactions are anonymous.
+feature-icon-05: fa fa-users fa-3x
+feature-title-05: Decentralized
+feature-definition-05: MonetaVerde uses decentralized peer-to-peer network technology to operate with no central authority.
+feature-icon-06: fa fa-money fa-3x
+feature-title-06: Double-Spending
+feature-definition-06: Double-spending fraud protection on the blockchain with Traceable Ring Signature.
+feature-icon-07: fa fa-lock fa-3x
+feature-title-07: Secure
+feature-definition-07: MonetaVerde provides an easy way of securing DigitalNotes with CPU-efficient PoW and POS.
+feature-icon-08: fa fa-line-chart fa-3x
+feature-title-08: Blockchain Staking
+feature-definition-08: DigitalNotes can be locked for staking for a determined period of time. Staking supports the price of DigitalNote.
+feature-icon-09: fa fa-balance-scale fa-3x
+feature-title-09: Egalitarian
+feature-definition-09: Brings the equality with an egalitarian PoW pricing function, which is perfectly suitable for ordinary PCs.
+
 
 # Build settings
 markdown: kramdown
