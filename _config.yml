@@ -65,6 +65,15 @@ feature-title-09: Egalitarian
 feature-definition-09: Brings the equality with an egalitarian PoW pricing function, which is perfectly suitable for ordinary PCs.
 
 # Wallets and Services
+windows-icon: fa fa-windows fa-5x
+linux-icon: fa fa-linux fa-5x
+macos-icon: fa fa-apple fa-5x
+desktop-windows-title: Windows Desktop
+desktop-linux-title: Linux Desktop
+desktop-macos-title: MacOS Desktop
+daemons-windows-title: Windows Daemons
+daemons-linux-title: Linux Daemons
+daemons-macos-title: MacOS Daemons
 desktop-windows-32bit: #
 desktop-windows-64bit: #
 desktop-linux-64bit: #
