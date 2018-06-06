@@ -64,6 +64,17 @@ feature-icon-09: fa fa-balance-scale fa-3x
 feature-title-09: Egalitarian
 feature-definition-09: Brings the equality with an egalitarian PoW pricing function, which is perfectly suitable for ordinary PCs.
 
+# Wallets and Services
+desktop-windows-32bit: #
+desktop-windows-64bit: #
+desktop-linux-64bit: #
+desktop-macos: #
+daemons-windows-32bit: #
+daemons-windows-64bit: #
+daemons-linux-64bit: #
+daemons-macos: #
+monetaverde-version: #
+
 
 # Build settings
 markdown: kramdown
