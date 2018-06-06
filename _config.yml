@@ -5,15 +5,16 @@ email: info@monetaverde.io
 description-title: Welcome to MonetaVerde Project!
 description-detail: We are building Green Cryptocurrency
 definition-title: What is MonetaVerde?
-definition-detail: "Moneta Verde (it) means <b>green coin</b>: this coin uses already existing mining resources (MM) 
-and it's supply is regulated by mining community. Moneta Verde is the first cryptocoin with blockreward increasing 
-together with difficulty. Block reward formula is a fixed point implementation of log2(difficulty). 
-This means that block reward increases much slower than difficulty: for 1 coin to be added to block 
-reward a difficulty must be increased twice. The goal is decline in deflation. The less the deflation 
-the more it is profitable to save up some MCN. Deflation ruins the usage of cryptocurrency as a legal tender."
+definition-detail: "MonetaVerde means <b>Green Coin</b> which means that this coin uses already existing mining resources 
+(<b>Merged Mining</b>) and it's supply is regulated by mining community. MonetaVerde is the first cryptocoin with blockreward 
+increasing together with difficulty. Block reward formula is a fixed point implementation of </b>log2(difficulty)</b>. 
+This means that block reward increases much slower than difficulty which means for 1 coin to be added to block reward a difficulty 
+must be increased twice. The goal is decline in deflation. The less the deflation the more it is profitable to save up some MCN. 
+Deflation ruins the usage of cryptocurrency as a legal tender. Deflation is a very serious problem for all cryptocoins because 
+it prevents them from being used as payment mean. MCN will has a slower deflation rate than other coins."
 
 # baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://wiki.monetaverde.io # the base hostname & protocol for your site
+url: https://www.monetaverde.io # the base hostname & protocol for your site
 # git_address: https://github.com/monetaverde
 # git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
