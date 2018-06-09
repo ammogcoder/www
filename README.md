@@ -5,4 +5,4 @@
 | URL | https://www.monetaverde.io |
 | Theme | Jekyll Doc Theme |
 | License | The MIT License |
-| Version     | 0.1.1 |
+| Version     | 0.2.0 |
