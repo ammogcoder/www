@@ -1,10 +1,10 @@
 - title: PROJECT
-  docs:
+  wiki:
   - home
 
 
 - title: JEKYLL THEME
-  docs:
+  wiki:
   - welcome
   - themes
   - customization

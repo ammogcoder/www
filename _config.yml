@@ -66,24 +66,27 @@ feature-title-09: Egalitarian
 feature-definition-09: Brings the equality with an egalitarian PoW pricing function, which is perfectly suitable for ordinary PCs.
 
 # Wallets and Services
-windows-icon: fa fa-windows fa-5x
-linux-icon: fa fa-linux fa-5x
-macos-icon: fa fa-apple fa-5x
-desktop-windows-title: Windows Desktop
-desktop-linux-title: Linux Desktop
-desktop-macos-title: MacOS Desktop
-daemons-windows-title: Windows Daemons
-daemons-linux-title: Linux Daemons
-daemons-macos-title: MacOS Daemons
+windows-icon: fa fa-windows fa-3x
+linux-icon: fa fa-linux fa-3x
+macos-icon: fa fa-apple fa-3x
+blockchain-icon: fa fa-cubes fa-3x
+desktop-windows-title: Windows Desktop v1.0.0 (Coming Soon)
+desktop-linux-title: Linux Desktop v1.0.0 (Coming Soon)
+desktop-macos-title: MacOS Desktop v1.0.0 (Coming Soon)
+daemons-windows-title: Windows Daemon v0.8.9
+daemons-linux-title: Linux Daemon v0.8.9
+daemons-macos-title: MacOS Daemon v0.8.9
 desktop-windows-32bit: #
 desktop-windows-64bit: #
 desktop-linux-64bit: #
 desktop-macos: #
-daemons-windows-32bit: #
-daemons-windows-64bit: #
-daemons-linux-64bit: #
-daemons-macos: #
-monetaverde-version: #
+daemons-windows-32bit: https://github.com/monetaverde/monetaverde/releases/download/v0.8.9/monetaverde-daemons-0.8.9-win32.zip
+daemons-windows-64bit: https://github.com/monetaverde/monetaverde/releases/download/v0.8.9/monetaverde-daemons-0.8.9-win64.zip
+daemons-linux-64bit: https://github.com/monetaverde/monetaverde/releases/download/v0.8.9/monetaverde-daemons-0.8.9-linux64.zip
+daemons-macos: https://github.com/monetaverde/monetaverde/releases/download/v0.8.9/monetaverde-daemons-0.8.9-macos.zip
+monetaverde-version: 0.8.9
+monetaverde-blockchain: https://s3.amazonaws.com/monetaverde/blockchain-windows.zip
+monetaverde-blockchain-title: MonetaVerde Blockchain
 
 
 # Build settings
@@ -111,7 +114,7 @@ defaults:
     sectionid: blog
 
 - scope:
-    path: _docs
+    path: _wiki
     type: docs
   values:
     layout: docs
